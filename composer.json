@@ -9,5 +9,10 @@
             "email": "armandotechno12@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Database\\": "database/"
+        }
+    },
     "require": {}
 }
